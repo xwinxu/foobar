@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/winniexu/anaconda3/envs/drl/bin/python",
+  "python.formatting.provider": "yapf"
+}
